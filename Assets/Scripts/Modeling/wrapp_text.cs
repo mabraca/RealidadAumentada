@@ -40,7 +40,7 @@ public class wrapp_text : MonoBehaviour {
 	}
 	
 	private int get_n_lines(TextMesh text_mesh){
-		CharacterInfo char_info;
+		//CharacterInfo char_info;
 		GameObject text_container = this.transform.parent.gameObject;
 		Bounds text_container_bounds = text_container.GetComponent<MeshFilter>().mesh.bounds;
 		//text_mesh.font.GetCharacterInfo('T', out char_info, text_mesh.fontSize, text_mesh.fontStyle);
