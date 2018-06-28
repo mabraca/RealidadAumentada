@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: fae0cbf09c3c58d4790e3172cd982925
+timeCreated: 1530153600
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1d2bcdacd80369d3b5d6cbd5af16c12c
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -6.2667894, y: 6.5822215, z: -11.182129}
+      lookAt: {x: 10.659888, y: 0.4798521, z: 10.751531}
+      up: {x: 0.13141635, y: 0.9765916, z: 0.17028986}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Block01
+    100002: Block01 1
+    100004: Block01 10
+    100006: Block01 11
+    100008: Block01 12
+    100010: Block01 13
+    100012: Block01 14
+    100014: Block01 15
+    100016: Block01 16
+    100018: Block01 17
+    100020: Block01 18
+    100022: Block01 19
+    100024: Block01 2
+    100026: Block01 20
+    100028: Block01 21
+    100030: Block01 22
+    100032: Block01 23
+    100034: Block01 24
+    100036: Block01 25
+    100038: Block01 26
+    100040: Block01 27
+    100042: Block01 3
+    100044: Block01 4
+    100046: Block01 5
+    100048: Block01 6
+    100050: Block01 7
+    100052: Block01 8
+    100054: Block01 9
+    100056: CBase02
+    100058: CBase02 1
+    100060: CBase02 10
+    100062: CBase02 2
+    100064: CBase02 3
+    100066: CBase02 4
+    100068: CBase02 5
+    100070: CBase02 6
+    100072: CBase02 7
+    100074: CBase02 8
+    100076: CBase02 9
+    100078: CBeam01
+    100080: CBeam01 1
+    100082: CBeam01 2
+    100084: CBeam01 3
+    100086: CBeam01 4
+    100088: CBlock01
+    100090: CBlock01 1
+    100092: CBlock01 2
+    100094: CBlock01 3
+    100096: CBmBrk01
+    100098: CBmBrk02
+    100100: CBmBrk03
+    100102: CBmBrk03 1
+    100104: ColBit01
+    100106: ColBit01 1
+    100108: ColBit01 10
+    100110: ColBit01 11
+    100112: ColBit01 12
+    100114: ColBit01 13
+    100116: ColBit01 14
+    100118: ColBit01 15
+    100120: ColBit01 16
+    100122: ColBit01 2
+    100124: ColBit01 3
+    100126: ColBit01 4
+    100128: ColBit01 5
+    100130: ColBit01 6
+    100132: ColBit01 7
+    100134: ColBit01 8
+    100136: ColBit01 9
+    100138: ColBit02
+    100140: ColBit02 1
+    100142: ColBit03
+    100144: ColBit03 1
+    100146: //RootNode
+    100148: CTop01
+    100150: CTop01 1
+    100152: CTop01 2
+    100154: CTop01 3
+    100156: Group 1
+    400000: Block01
+    400002: Block01 1
+    400004: Block01 10
+    400006: Block01 11
+    400008: Block01 12
+    400010: Block01 13
+    400012: Block01 14
+    400014: Block01 15
+    400016: Block01 16
+    400018: Block01 17
+    400020: Block01 18
+    400022: Block01 19
+    400024: Block01 2
+    400026: Block01 20
+    400028: Block01 21
+    400030: Block01 22
+    400032: Block01 23
+    400034: Block01 24
+    400036: Block01 25
+    400038: Block01 26
+    400040: Block01 27
+    400042: Block01 3
+    400044: Block01 4
+    400046: Block01 5
+    400048: Block01 6
+    400050: Block01 7
+    400052: Block01 8
+    400054: Block01 9
+    400056: CBase02
+    400058: CBase02 1
+    400060: CBase02 10
+    400062: CBase02 2
+    400064: CBase02 3
+    400066: CBase02 4
+    400068: CBase02 5
+    400070: CBase02 6
+    400072: CBase02 7
+    400074: CBase02 8
+    400076: CBase02 9
+    400078: CBeam01
+    400080: CBeam01 1
+    400082: CBeam01 2
+    400084: CBeam01 3
+    400086: CBeam01 4
+    400088: CBlock01
+    400090: CBlock01 1
+    400092: CBlock01 2
+    400094: CBlock01 3
+    400096: CBmBrk01
+    400098: CBmBrk02
+    400100: CBmBrk03
+    400102: CBmBrk03 1
+    400104: ColBit01
+    400106: ColBit01 1
+    400108: ColBit01 10
+    400110: ColBit01 11
+    400112: ColBit01 12
+    400114: ColBit01 13
+    400116: ColBit01 14
+    400118: ColBit01 15
+    400120: ColBit01 16
+    400122: ColBit01 2
+    400124: ColBit01 3
+    400126: ColBit01 4
+    400128: ColBit01 5
+    400130: ColBit01 6
+    400132: ColBit01 7
+    400134: ColBit01 8
+    400136: ColBit01 9
+    400138: ColBit02
+    400140: ColBit02 1
+    400142: ColBit03
+    400144: ColBit03 1
+    400146: //RootNode
+    400148: CTop01
+    400150: CTop01 1
+    400152: CTop01 2
+    400154: CTop01 3
+    400156: Group 1
+    2100000: _defaultMat
+    2100002: ColSite2
+    2100004: CStone2b
+    2100006: CStone2c
+    2300000: Block01
+    2300002: Block01 1
+    2300004: Block01 10
+    2300006: Block01 11
+    2300008: Block01 12
+    2300010: Block01 13
+    2300012: Block01 14
+    2300014: Block01 15
+    2300016: Block01 16
+    2300018: Block01 17
+    2300020: Block01 18
+    2300022: Block01 19
+    2300024: Block01 2
+    2300026: Block01 20
+    2300028: Block01 21
+    2300030: Block01 22
+    2300032: Block01 23
+    2300034: Block01 24
+    2300036: Block01 25
+    2300038: Block01 26
+    2300040: Block01 27
+    2300042: Block01 3
+    2300044: Block01 4
+    2300046: Block01 5
+    2300048: Block01 6
+    2300050: Block01 7
+    2300052: Block01 8
+    2300054: Block01 9
+    2300056: CBase02
+    2300058: CBase02 1
+    2300060: CBase02 10
+    2300062: CBase02 2
+    2300064: CBase02 3
+    2300066: CBase02 4
+    2300068: CBase02 5
+    2300070: CBase02 6
+    2300072: CBase02 7
+    2300074: CBase02 8
+    2300076: CBase02 9
+    2300078: CBeam01
+    2300080: CBeam01 1
+    2300082: CBeam01 2
+    2300084: CBeam01 3
+    2300086: CBeam01 4
+    2300088: CBlock01
+    2300090: CBlock01 1
+    2300092: CBlock01 2
+    2300094: CBlock01 3
+    2300096: CBmBrk01
+    2300098: CBmBrk02
+    2300100: CBmBrk03
+    2300102: CBmBrk03 1
+    2300104: ColBit01
+    2300106: ColBit01 1
+    2300108: ColBit01 10
+    2300110: ColBit01 11
+    2300112: ColBit01 12
+    2300114: ColBit01 13
+    2300116: ColBit01 14
+    2300118: ColBit01 15
+    2300120: ColBit01 16
+    2300122: ColBit01 2
+    2300124: ColBit01 3
+    2300126: ColBit01 4
+    2300128: ColBit01 5
+    2300130: ColBit01 6
+    2300132: ColBit01 7
+    2300134: ColBit01 8
+    2300136: ColBit01 9
+    2300138: ColBit02
+    2300140: ColBit02 1
+    2300142: ColBit03
+    2300144: ColBit03 1
+    2300146: CTop01
+    2300148: CTop01 1
+    2300150: CTop01 2
+    2300152: CTop01 3
+    2300154: Group 1
+    3300000: Block01
+    3300002: Block01 1
+    3300004: Block01 10
+    3300006: Block01 11
+    3300008: Block01 12
+    3300010: Block01 13
+    3300012: Block01 14
+    3300014: Block01 15
+    3300016: Block01 16
+    3300018: Block01 17
+    3300020: Block01 18
+    3300022: Block01 19
+    3300024: Block01 2
+    3300026: Block01 20
+    3300028: Block01 21
+    3300030: Block01 22
+    3300032: Block01 23
+    3300034: Block01 24
+    3300036: Block01 25
+    3300038: Block01 26
+    3300040: Block01 27
+    3300042: Block01 3
+    3300044: Block01 4
+    3300046: Block01 5
+    3300048: Block01 6
+    3300050: Block01 7
+    3300052: Block01 8
+    3300054: Block01 9
+    3300056: CBase02
+    3300058: CBase02 1
+    3300060: CBase02 10
+    3300062: CBase02 2
+    3300064: CBase02 3
+    3300066: CBase02 4
+    3300068: CBase02 5
+    3300070: CBase02 6
+    3300072: CBase02 7
+    3300074: CBase02 8
+    3300076: CBase02 9
+    3300078: CBeam01
+    3300080: CBeam01 1
+    3300082: CBeam01 2
+    3300084: CBeam01 3
+    3300086: CBeam01 4
+    3300088: CBlock01
+    3300090: CBlock01 1
+    3300092: CBlock01 2
+    3300094: CBlock01 3
+    3300096: CBmBrk01
+    3300098: CBmBrk02
+    3300100: CBmBrk03
+    3300102: CBmBrk03 1
+    3300104: ColBit01
+    3300106: ColBit01 1
+    3300108: ColBit01 10
+    3300110: ColBit01 11
+    3300112: ColBit01 12
+    3300114: ColBit01 13
+    3300116: ColBit01 14
+    3300118: ColBit01 15
+    3300120: ColBit01 16
+    3300122: ColBit01 2
+    3300124: ColBit01 3
+    3300126: ColBit01 4
+    3300128: ColBit01 5
+    3300130: ColBit01 6
+    3300132: ColBit01 7
+    3300134: ColBit01 8
+    3300136: ColBit01 9
+    3300138: ColBit02
+    3300140: ColBit02 1
+    3300142: ColBit03
+    3300144: ColBit03 1
+    3300146: CTop01
+    3300148: CTop01 1
+    3300150: CTop01 2
+    3300152: CTop01 3
+    3300154: Group 1
+    4300000: Mesh Group 1
+    4300002: Mesh ColBit01
+    4300004: Mesh Block01
+    4300006: Mesh ColBit02
+    4300008: Mesh ColBit03
+    4300010: Mesh CBase02
+    4300012: Mesh CTop01
+    4300014: Mesh CBeam01
+    4300016: Mesh CBlock01
+    4300018: Mesh CBmBrk01
+    4300020: Mesh CBmBrk02
+    4300022: Mesh CBmBrk03
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
