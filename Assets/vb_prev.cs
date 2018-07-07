@@ -12,7 +12,8 @@ public class vb_prev : MonoBehaviour, IVirtualButtonEventHandler {
 
 	// Use this for initialization
 	void Start () {
-		vb_go = GameObject.Find ("VirtualButton_Prev");
+		//vb_go = GameObject.Find ("VirtualButton_Prev");
+		vb_go = this.transform.GetChild(1).gameObject;
 		vb_go.GetComponent<VirtualButtonBehaviour> ().RegisterEventHandler (this);
 		text = GameObject.Find ("UIText").GetComponent<Text> ();
 		btn_pressed = false;

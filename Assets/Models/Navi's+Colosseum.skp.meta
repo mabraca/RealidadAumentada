@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: be89fcee0e7b2b244bbeae7c5fa42dae
-timeCreated: 1530153598
+guid: 28da464867f65d64c8ea2d44b5ef8c53
+timeCreated: 1530920343
 licenseType: Free
 SketchUpImporter:
   generateBackFace: 0
@@ -8,16 +8,16 @@ SketchUpImporter:
   selectedNodes: 0000000001000000
   assetHash:
     serializedVersion: 2
-    Hash: bf445fc69cd2916bf2922f406bbf318e
-  longitude: -73.98599315282445
-  latitude: 40.748485752423875
-  northCorrection: 0.6620343965442999
+    Hash: 4a350d189953e0c9765e9c457d20b954
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
   fileUnit: 0
   sketchUpImportData:
     defaultCamera:
-      position: {x: 120.23424, y: 562.8855, z: -302.45703}
-      lookAt: {x: 60.16444, y: 152.21779, z: 75.14569}
-      up: {x: 0.51258093, y: 0.5393409, z: 0.6681109}
+      position: {x: -10.786698, y: 10.361635, z: 10.942262}
+      lookAt: {x: -0.9411316, y: 2.2095196, z: -0.02279887}
+      up: {x: 0.32340097, y: 0.8750354, z: -0.3601734}
       fov: 35
       aspectRatio: 0
       orthoSize: 1
@@ -27,37 +27,10 @@ SketchUpImporter:
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: _defaultMat
-    2100002: groundtex
-    2100004: thinstriptex1
-    2100006: contex
-    2100008: ground con
-    2100010: entrance1tex
-    2100012: roof
-    2100014: thinsidetop5
-    2100016: thinsidetop6
-    2100018: 11211
-    2100020: 1111
-    2100022: thinsidetop3
-    2100024: 232
-    2100026: contex1
-    2100028: topgrey
-    2100030: thinstrip1
-    2100032: thinstriptex
-    2100034: '[Color_005]'
-    2100036: toptowertex
-    2100038: lightgrey
-    2100040: wingtex
-    2100042: bigwintex
-    2100044: scaffolding1
-    2100046: streetlevel
-    2100048: '[Color_G11]'
-    2100050: awningstrip
-    2100052: entrancewindow
-    2100054: name
+    2100000: '[Stone_Coursed_Rough]1'
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Mesh Empire+State+Building
+    4300000: Mesh Navi's+Colosseum
   externalObjects: {}
   materials:
     importMaterials: 1

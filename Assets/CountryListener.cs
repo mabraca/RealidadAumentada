@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using System.IO;
 
 public class CountryListener : MonoBehaviour {
 
@@ -14,32 +16,102 @@ public class CountryListener : MonoBehaviour {
 	bool btnPrevState;
 	bool btnNextState;
 
+	public Text text;
+
 	// Use this for initialization
 	void Start () {
-		country = new Country ("Francia");
-		country.addCity (new City (
-			"Bordeoux",
-			"Very GOjira",
-			"Very much a lot",
-			"Tasty tasty"
-		));
-		country.addCity (new City (
-			"Paris",
-			"Very Palomita",
-			"Very much much a lot",
-			"Tasty croissant"
-		));
-		country.addCity (new City (
-			"Po",
-			"Virgin like Virginia",
-			"Idk",
-			"Cajun maybe?"
-		));
+		string[] go_name = this.transform.parent.gameObject.name.Split ('_');
+		//string path = "Assets/CountryInfo/" + go_name [go_name.Length - 1] + ".txt";
+		string path = "CountryInfo/" + go_name [go_name.Length - 1];// + ".txt";
+		TextAsset file = Resources.Load(path) as TextAsset;
+		if (file == null) {
+			Debug.Log ("File not found!");
+		}
+		//StreamReader reader = new StreamReader (path);
+		StreamReader reader = new StreamReader (new MemoryStream(file.bytes));
+		text = GameObject.Find ("UIText").GetComponent<Text> ();
 
-		imgTarget = GameObject.Find ("ImageTarget_Veridium");
+		// Read Country name
+		country = new Country (reader.ReadLine());
 
-		text_mesh_renderer = GameObject.Find("text").GetComponent<MeshRenderer>();
-		text_mesh = GameObject.Find("text").GetComponent<TextMesh>();
+		// Read city names
+		string line;
+		List<string> city_names = new List<string>();
+		while (true) {
+			line = reader.ReadLine ();
+			if (line == "=end") {
+				break;
+			}else if(line != ""){
+				city_names.Add(line);
+				Debug.Log(line);
+			}
+		}
+
+		reader.Close ();
+
+		// Read each city
+		//path = "Assets/CountryInfo/" + go_name [go_name.Length - 1] + "Cities/";
+		path = "CountryInfo/" + go_name [go_name.Length - 1] + "Cities/";
+		string description = "";
+		string art = "";
+		string cuisine = "";
+		foreach (string city in city_names) {
+			//TextAsset cityFile = Resources.Load (path + city + ".txt") as TextAsset;
+			TextAsset cityFile = Resources.Load (path + city) as TextAsset;
+			//reader = new StreamReader(path + city + ".txt");
+			reader = new StreamReader(new MemoryStream(cityFile.bytes));
+			while (true) {
+				line = reader.ReadLine ();
+				if (line == "=description") {
+					description = "";
+					while (true) {
+						line = reader.ReadLine ();
+						if (line == "=end") {
+							break;
+						} else {
+							description += line + "\n";
+						}
+					}
+				} else if (line == "=art") {
+					art = "";
+					while (true) {
+						line = reader.ReadLine ();
+						if (line == "=end") {
+							break;
+						} else {
+							art += line + "\n";
+						}
+					}
+				} else if (line == "=cuisine") {
+					cuisine = "";
+					while (true) {
+						line = reader.ReadLine ();
+						if (line == "=end") {
+							break;
+						} else {
+							cuisine += line + "\n";
+						}
+					}
+				} else {
+					break;
+				}
+			}
+			Debug.Log ("city: " + city);
+			Debug.Log ("desc: " + description);
+			Debug.Log ("art: " + art);
+			Debug.Log ("cuisine: " + cuisine);
+			country.addCity (new City (city, description, art, cuisine));
+			reader.Close ();
+		}
+
+		// Some stuff that i dont remember
+		//imgTarget = GameObject.Find ("ImageTarget_Veridium");
+		imgTarget = this.transform.parent.gameObject;
+
+		//text_mesh_renderer = GameObject.Find("text").GetComponent<MeshRenderer>();
+		text_mesh_renderer = this.transform.GetChild(0).GetChild(0).gameObject.GetComponent<MeshRenderer> ();
+		//text_mesh = GameObject.Find("text").GetComponent<TextMesh>();
+		text_mesh = this.transform.GetChild(0).GetChild(0).gameObject.GetComponent<TextMesh>();
 		n_chars = get_n_chars(text_mesh);
 		n_lines = get_n_lines(text_mesh);
 		text_mesh_renderer.enabled = true;
