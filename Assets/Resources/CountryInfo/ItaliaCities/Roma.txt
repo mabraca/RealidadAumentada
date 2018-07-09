@@ -1,0 +1,38 @@
+﻿=description
+La ciudad de Roma es la capital de Italia y cuenta
+ actualmente con una población cercana a los 4 millo-
+ nes de habitantes. La ciudad de Roma alberga el Vati-
+ cano,considerado el Estado más pequeño donde se con-
+ centra uno de los poderes religiosos y políticos más 
+ influyentes de la historia. El Vaticano es reconocido
+ como Estado independiente por el Gobierno Italiano en
+ 1929 por el Pacto de Letrán.
+=end
+=cuisine
+La comida de Italia es variada. Refleja la variedad cultural
+ de sus regiones así como la diversidad de su historia. La 
+ cocina italiana, está incluida dentro de la denominada gas-
+ tronomía mediterránea y es imitada y practicada en todo el 
+ mundo. Se trata de una cocina con fuerte carácter tradicional,
+ variada gracias a cada una de sus regiones y heredera de largas
+ tradiciones, que ha sabido perpetuar recetas antiguas como la pizza,
+ plato napolitano por excelencia, o la polenta, que hoy en día 
+ puede degustarse en cualquier trattoria del norte
+=end
+El arte Romano es heredado directamente del griego, 
+pero con algunas variantes adecuadas al particular 
+carácter del pueblo romano. Más pragmáticos que los
+ griegos, los romanos serán conocidos no solo por sus
+ templos y monumentos, sino sobre todo por sus obras
+ de ingeniería. En efecto, los romanos se caracterizaran
+ por ser magníficos ingenieros, como demuestran los 
+ acueductos ((el más conocido , el de Segovia) sus puentes,
+que aún hoy, veinte siglos más tarde, se siguen  
+ utilizándose incluso por tráfico rodado; sus cloacas,
+catacumbas, sus edificios públicos, como las termas 
+o baños públicos y sus circos, teatros y anfiteatros, 
+de los que han quedado buenos ejemplos como el teatro 
+de Mérida, o el anfiteatro Flavio, conocido popularmente
+ como el Coliseo.
+=end
+=eof

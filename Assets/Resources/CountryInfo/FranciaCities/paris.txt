@@ -1,0 +1,23 @@
+﻿=description
+París es una de las ciudades más grandes de Europa, con una
+ población que ronda los 10 millones de habitantes está en 
+ segunda posición por detrás de Londres.
+El apodo de "Ciudad de la luz" tiene su origen en que París
+ fue la primera ciudad en iluminarse con luz eléctrica, aun-
+ que algunos también consideran que se debe a su fama en al-
+ gunas épocas como centro de arte y cultura y educación.
+ Datos Generales:
+La moneda de París es el Euro (€).
+La franja horaria de París es GMT+1.
+Lugares turisticos: Torre Eiffel y Museo de Louvre
+=end
+=cuisine
+En Francia se destaca por sus famosos crepes y croissants 
+=end
+=art
+En Paris podemos disfrutar de distintos museos, el mas cono-
+cido de ellos es el Museo de Louvre donde se encuentra la famosa
+obra de arte El Retrato de La Gioconda o Mona Lisa, que es una 
+obra pictórica del pintor renacentista italiano Leonardo da Vinci.
+=end
+=eof

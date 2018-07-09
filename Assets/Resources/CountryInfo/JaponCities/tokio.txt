@@ -1,0 +1,57 @@
+﻿=description
+Una de las ciudades mas espectaculares de la 
+región de Asia-Pacífico es sin duda Tokio, 
+la capital de Japón. Es una ciudad que ha rena-
+cido de sus cenizas, cual Ave Fénix, pues el fe-
+roz terremoto de 1923 y los posteriores bombardeos
+de la Segunda Guerra Mundial la aniquilaron. 
+Dos veces destruida y dos veces levantada.
+Datos Generales:
+Una de las ciudades mas organizadas del mundo. 
+En Tokio, una ciudad de 2.187.087 km2 viven mas
+de 13 millones de personas y aún con esa cantidad
+es una ciudad limpia, ordenada, de medios de trans-
+porte eficientes y lo mejor de todo, absolutamente
+segura 
+Sitios Turisticos:
+La Torre de Tokio, Templos religiosos,SkyTree Tokio
+=end
+=cuisine
+La cocina tradicional japonesa está dominada por el 
+arroz blanco. El arroz blanco suele usarse como 
+acompañamiento para todas las comidas para acompañar 
+al plato principal. Un desayuno japonés tradicional, 
+consiste en una sopa de miso (miso shiru), arroz, y un 
+vegetal encurtido. La comida más común, sin embargo, 
+se llama ichijū-sansai(los tres palillos), es una sopa con una técnica 
+de preparación diferente para cada uno. Los tres platillos
+ secundarios son normalmente pescado crudo (sashimi),
+ un platillo a la parrilla, y un platillo cocido a fuego 
+ lento. Esta visión única japonesa de la comida se refleja
+ en la organización de los recetarios tradicionales japoneses.
+ Los capítulos están organizados según las técnicas culinarias:
+ comidas fritas, comidas al vapor, comidas a la parrilla, por 
+ ejemplo, y no conforme a ingredientes específicos (por ejemplo,
+ pollo o res) como en los recetarios occidentales. También hay,
+ usualmente, capítulos dedicados a las sopas, el sushi, el arroz,
+ los tallarines, y los dulces.
+=end
+=art
+El arte tiene en la cultura japonesa un gran sentido introspectivo
+ y de interrelación entre el hombre y la naturaleza, representada
+ igualmente en los objetos que le envuelven, desde el más ornado
+y enfático hasta el más simple y cotidiano. Esto se pone de 
+manifiesto en el valor otorgado a la imperfección, al carácter 
+efímero de las cosas, al sentido emocional que el japonés establece
+con su entorno. Así, por ejemplo, en la ceremonia del té los 
+japoneses valoran la calma y la tranquilidad de ese estado de
+contemplación que consiguen con un sencillo ritual, basado en
+elementos simples y en una armonía proveniente de un espacio 
+asimétrico e inacabado. Para los japoneses, la paz y la armonía
+están asociadas a la calidez y la comodidad, cualidades a su vez
+que son fiel reflejo de su concepto de la belleza. Incluso a la
+hora de comer, no importa la cantidad de alimentos o su presentación,
+sino la percepción sensorial de la comida y el sentido estético
+que otorgan a cualquier acto
+=end
+=eof

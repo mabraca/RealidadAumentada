@@ -1,0 +1,29 @@
+﻿=description
+La ciudad de Mumbai, conocida oficialmente como Bombay,
+ es la capital del estado federal de Maharashtra y una 
+ importante ciudad portuaria y administrativa de todo el
+ subcontinente. La ciudad es el principal centro económico
+ de la India y alberga a la mayor industria cinematográfica
+ del mundo, siendo también nudo de comunicaciones y un im-
+ portante centro cultural que cuenta con numerosas univer-
+ sidades, teatros, museos y galerías
+ Datos generales:
+Todos los extranjeros necesitan visa y esta es proporcionada
+ por los consulados en los respectivos países. 
+ El tiempo máximo de tránsito para un visado es de 180 días.
+=end
+=cuisine
+En la comida del norte de la India se toman los platos 
+acompañados de rotis (pan indio) y chapatis (tortilla india)
+y con arroces como acompañamiento de una gran diversidad de
+platos como los dals o legumbres, curris, yogures, lassis
+(yogur con jugos de fruta y agua), chatnis (chutneys) y achars.
+=end
+=art
+El arte de la India se caracteriza principalmente por ser un 
+reflejo de la compleja sociedad india, multiétnica y multicultural.
+ Asimismo tiene un carácter principalmente religioso, sirviendo el 
+ arte como medio de transmisión de las distintas religiones que han
+ jalonado la India: hinduismo, budismo, islamismo, cristianismo, etc.
+=end
+=eof
