@@ -6,5 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 14409c0366dac4dd7b4205978592a84f
+  - enabled: 1
     path: Assets/Scenes/VuforiaTest.unity
     guid: 297355d705bb78049be6a20188572b05
