@@ -149,7 +149,7 @@ public class CountryListener : MonoBehaviour {
 		Debug.Log (text_container_bounds.size.x * text_container.transform.lossyScale.x);
 		*/
 		Debug.Log ("SOMETHING");
-		Debug.Log (text_container_bounds.size.x * text_container.transform.lossyScale.x)/(char_width * text_mesh.characterSize * 0.1f));
+		Debug.Log ((text_container_bounds.size.x * text_container.transform.lossyScale.x)/(char_width * text_mesh.characterSize * 0.1f));
 		return 65;
 		return (int)((text_container_bounds.size.x * text_container.transform.lossyScale.x)/(char_width * text_mesh.characterSize * 0.1f));
 		//return (int)((text_container_bounds.size.x * text_container.transform.lossyScale.x)/(char_width * text_mesh.characterSize * text_mesh.transform.lossyScale.x * 0.1f));
