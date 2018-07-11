@@ -140,13 +140,17 @@ public class CountryListener : MonoBehaviour {
 		Bounds text_container_bounds = text_container.GetComponent<MeshFilter>().mesh.bounds;
 		text_mesh.font.GetCharacterInfo('T', out char_info, text_mesh.fontSize, text_mesh.fontStyle);
 		int char_width = char_info.advance;
-
+		/*
 		Debug.Log("ACHU");
 		Debug.Log (char_width);
 		Debug.Log (text_container_bounds.size.x);
 		Debug.Log (text_container.transform.lossyScale.x);
 		Debug.Log (text_container.transform.localScale.x);
 		Debug.Log (text_container_bounds.size.x * text_container.transform.lossyScale.x);
+		*/
+		Debug.Log ("SOMETHING");
+		Debug.Log (text_container_bounds.size.x * text_container.transform.lossyScale.x)/(char_width * text_mesh.characterSize * 0.1f));
+		return 65;
 		return (int)((text_container_bounds.size.x * text_container.transform.lossyScale.x)/(char_width * text_mesh.characterSize * 0.1f));
 		//return (int)((text_container_bounds.size.x * text_container.transform.lossyScale.x)/(char_width * text_mesh.characterSize * text_mesh.transform.lossyScale.x * 0.1f));
 	}

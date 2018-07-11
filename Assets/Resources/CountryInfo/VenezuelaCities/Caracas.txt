@@ -5,6 +5,6 @@ Malandreo
 Arepa e yuca
 =end
 =art
-Webo peluo
+Roñoquero y Mamblea
 =end
 =eof

@@ -1,5 +1,6 @@
 ﻿=description
 Conocida mundialmente por ser la ciudad más grande de Estados Unidos y la que cuenta con mayor cantidad de habitantes. Ubicada sobre la costa noreste de los EE.UU. se emplaza en el centro de la gran zona metropolitana llamada Tristate (tristatal), por el contacto que existe entre los Estados de Nueva Jersey, Connecticut y Nueva York.
+ 
 Más conocida como la “Gran Manzana“, es la metrópoli más grande del mundo y su éxito llevó a que adoptara al título de capital de mundo, donde se encuentran las sedes de importantes organizaciones mundiales como la de Las Naciones Unidas.
 =end
 =cuisine

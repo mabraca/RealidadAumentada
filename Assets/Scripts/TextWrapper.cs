@@ -14,13 +14,18 @@ public static partial class TextWrapper{
 		foreach(string w in words){
 			string temp = line + " " + w;
 			
-			if(temp.Length > lineLength){
+			if (temp.Length > lineLength) {
 				result += line + "\n";
 				line = w;
+				count += 1;
+			}else if(temp[temp.Length -1] == '\n'){
+				result += temp;
+				line = "";
 				count += 1;
 			}else{
 				line = temp;
 			}
+
 			if(count >= n_lines-1){
 				break;
 			}
