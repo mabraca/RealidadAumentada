@@ -1,0 +1,24 @@
+﻿=description
+El Mont-Saint-Michel tiene la particularidad de levantarse en un islote rocoso rodeado de una maravillosa bahía, escenario de las mas grandes mareas de Europa. 
+
+El Mont San Michel y su bahía están clasificados desde 1979 como Patrimonio Mundial de la UNESCO.
+
+Es majestuoso con tiempo despejado y aún, más misterioso bajo la niebla. Aunque cualquier tiempo y cualquier estacione del año son apropiadas para su visita. 
+
+La moneda en toda Francia es el Euro (€)
+ 
+Datos curiosos:
+
+Algunas escenas de la famosa serie Games of Thrones fueron grabadas en el Castillo Saint Michael.
+
+Lugares turisticos: Catillo de Saint Michael, Abadia y Monasterio
+=end
+=cuisine
+En toda Francia se destaca por sus famosos crepes y croissants.
+=end
+=art
+La arquitectura prodigiosa del Castillo Mont Saint-Michel y su bahía lo hacen el sitio turístico más concurrido de Normandía y uno de los primeros de Francia, con unos 3,2 millones de visitantes cada año. 
+
+Ademas, en el Mont Saint Michael se encuentra una estatua de San Miguel Arcángel colocada en la cumbre de la iglesia abacial que se erige a 170 metros por encima de la orilla.
+=end
+=eof
