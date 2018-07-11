@@ -1,0 +1,4 @@
+Japon
+
+Tokyo
+=end

@@ -19,8 +19,8 @@ public class PositionTracker : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		ImageTrackableBehaviour = this.GetComponent<TrackableBehaviour>();
-		CuisineCardTrackableBehaviour = GameObject.Find("ImageTarget_Drone").GetComponent<TrackableBehaviour>();
-		ArtCardTrackableBehaviour = GameObject.Find("ImageTarget_Oxygen").GetComponent<TrackableBehaviour>();
+		CuisineCardTrackableBehaviour = GameObject.Find("FoodCard").GetComponent<TrackableBehaviour>();
+		ArtCardTrackableBehaviour = GameObject.Find("ArtCard").GetComponent<TrackableBehaviour>();
 		countryPlate = this.transform.GetChild (0).gameObject; //GameObject.Find ("CountryPlate");
 
 		artModel_go = this.transform.GetChild (0).GetChild (1).GetChild (0).gameObject;

@@ -43,7 +43,6 @@ public class CountryListener : MonoBehaviour {
 				break;
 			}else if(line != ""){
 				city_names.Add(line);
-				Debug.Log(line);
 			}
 		}
 
@@ -96,10 +95,6 @@ public class CountryListener : MonoBehaviour {
 					break;
 				}
 			}
-			Debug.Log ("city: " + city);
-			Debug.Log ("desc: " + description);
-			Debug.Log ("art: " + art);
-			Debug.Log ("cuisine: " + cuisine);
 			country.addCity (new City (city, description, art, cuisine));
 			reader.Close ();
 		}
@@ -146,7 +141,14 @@ public class CountryListener : MonoBehaviour {
 		text_mesh.font.GetCharacterInfo('T', out char_info, text_mesh.fontSize, text_mesh.fontStyle);
 		int char_width = char_info.advance;
 
-		return (int)((text_container_bounds.size.x * text_container.transform.lossyScale.x)/(char_width * text_mesh.characterSize * text_mesh.transform.lossyScale.x * 0.1f));
+		Debug.Log("ACHU");
+		Debug.Log (char_width);
+		Debug.Log (text_container_bounds.size.x);
+		Debug.Log (text_container.transform.lossyScale.x);
+		Debug.Log (text_container.transform.localScale.x);
+		Debug.Log (text_container_bounds.size.x * text_container.transform.lossyScale.x);
+		return (int)((text_container_bounds.size.x * text_container.transform.lossyScale.x)/(char_width * text_mesh.characterSize * 0.1f));
+		//return (int)((text_container_bounds.size.x * text_container.transform.lossyScale.x)/(char_width * text_mesh.characterSize * text_mesh.transform.lossyScale.x * 0.1f));
 	}
 
 	private int get_n_lines(TextMesh text_mesh){

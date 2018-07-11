@@ -1,46 +1,11 @@
 ﻿=description
-Conocida mundialmente por ser la ciudad más
- grande de Estados Unidos y la que cuenta 
- con mayor cantidad de habitantes. Ubicada 
- sobre la costa noreste de los EE.UU. se 
- emplaza en el centro de la gran zona 
- metropolitana llamada Tristate (tristatal),
- por el contacto que existe entre los 
- Estados de Nueva Jersey, Connecticut y 
- Nueva York.
- Datos Generales:
-Más conocida como la “Gran Manzana“, es la metrópoli 
-más grande del mundo y su éxito llevó a que adoptara
-al título de capital de mundo, donde se encuentran
-las sedes de importantes organizaciones mundiales como
-la de Las Naciones Unidas.
+Conocida mundialmente por ser la ciudad más grande de Estados Unidos y la que cuenta con mayor cantidad de habitantes. Ubicada sobre la costa noreste de los EE.UU. se emplaza en el centro de la gran zona metropolitana llamada Tristate (tristatal), por el contacto que existe entre los Estados de Nueva Jersey, Connecticut y Nueva York.
+Más conocida como la “Gran Manzana“, es la metrópoli más grande del mundo y su éxito llevó a que adoptara al título de capital de mundo, donde se encuentran las sedes de importantes organizaciones mundiales como la de Las Naciones Unidas.
 =end
 =cuisine
-La gastronomía de Estados Unidos se caracteriza por 
-ser una fusión variada de la cocina de otros países 
-adaptadas a cada región. Un ejemplo es el espagueti 
-de origen italiano y las salchichas alemanas, que 
-juntas hacen el popular espagueti con salchichas. 
-De igual manera sucede con los perros calientes y 
-las hamburguesas de procedencia alemana y populares 
-en Estados Unidos. En sus platos se usan ingredientes 
-de origen autóctono como el maíz, las habas, el girasol, 
-las patatas, los pimientos, diversas formas de pepinos e
- ingredientes y costumbre de otras partes del mundo llevados 
- por los inmigrantes. Algunos de los platos típicos son el 
- pie de manzana, el boston baket beans, buffalo wings, 
- la carne con chili, entre otros. 
+La gastronomía de Estados Unidos se caracteriza por ser una fusión variada de la cocina de otros países adaptadas a cada región. Un ejemplo es el espagueti de origen italiano y las salchichas alemanas, que juntas hacen el popular espagueti con salchichas. De igual manera sucede con los perros calientes y las hamburguesas de procedencia alemana y populares en Estados Unidos. En sus platos se usan ingredientes de origen autóctono como el maíz, las habas, el girasol, las patatas, los pimientos, diversas formas de pepinos e ingredientes y costumbre de otras partes del mundo llevados por los inmigrantes. Algunos de los platos típicos son el pie de manzana, el boston baket beans, buffalo wings, la carne con chili, entre otros. 
 =end
 =art
-A finales del siglo XVIII y principios del XIX, los artistas
- estadounidenses han pintado principalmente paisajes y retratos
-en un estilo realista. Un desarrollo paralelo que va tomando
-forma en las partes rurales del país son las artesanías, 
-las cuales comenzaron como una reacción a la Revolución Industrial.
-Las primeras muestras de arte moderno de Europa llegaron a Estados
-Unidos y fueron exhibidas en la ciudad de Nueva York en 1913. 
-Luego de la Segunda Guerra Mundial, Nueva York reemplazó a París
-como el centro del mundo artístico. La pintura en los Estados Unidos 
-cubre, hoy en día, una amplia gama de estilos.
+A finales del siglo XVIII y principios del XIX, los artistas estadounidenses han pintado principalmente paisajes y retratos en un estilo realista. Un desarrollo paralelo que va tomando forma en las partes rurales del país son las artesanías, las cuales comenzaron como una reacción a la Revolución Industrial. Las primeras muestras de arte moderno de Europa llegaron a Estados Unidos y fueron exhibidas en la ciudad de Nueva York en 1913. Luego de la Segunda Guerra Mundial, Nueva York reemplazó a París como el centro del mundo artístico. La pintura en los Estados Unidos cubre, hoy en día, una amplia gama de estilos.
 =end
 =eof
