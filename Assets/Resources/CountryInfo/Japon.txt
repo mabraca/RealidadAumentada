@@ -1,4 +1,6 @@
 Japon
 
 Tokyo
+
+Hiroshima
 =end

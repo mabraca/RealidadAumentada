@@ -11,6 +11,8 @@ El tiempo máximo de tránsito para un visado es de 180 días.
 En la comida del norte de la India se toman los platos acompañados de rotis (pan indio) y chapatis (tortilla india) y con arroces como acompañamiento de una gran diversidad de platos como los dals o legumbres, curris, yogures, lassis (yogur con jugos de fruta y agua), chatnis (chutneys) y achars.
 =end
 =art
-El arte de la India se caracteriza principalmente por ser un reflejo de la compleja sociedad india, multiétnica y multicultural. Asimismo tiene un carácter principalmente religioso, sirviendo el arte como medio de transmisión de las distintas religiones que han jalonado la India: hinduismo, budismo, islamismo, cristianismo, etc.
+En dirección norte, en una elegante zona verde, se encuentra el Museo del Príncipe de Gales (Prince of Wales Museum). La inconfundible arquitectura de la época colonial británica, coronada por una imponente cúpula blanca en estilo mogol, alberga una extensa colección de pinturas y esculturas, que requieren varias horas de visita. 
+
+La piedra fundacional del museo fue colocada por el rey Jorge V, cuando aún era Príncipe de Gales, en el año 1905.
 =end
 =eof

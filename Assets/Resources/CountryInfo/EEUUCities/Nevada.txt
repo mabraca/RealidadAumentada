@@ -1,0 +1,11 @@
+﻿=description
+Las Vegas es la ciudad más grande del estado de Nevada en Estados Unidos. Es uno de los principales destinos turísticos del país gracias a sus zonas comerciales y vacacionales, pero sobre todo gracias a sus casinos, entretenimieto  mundial, grandes hoteles, y mucho mas. 
+Las Vegas es una ciudad de fantasía y luces siempre cambiante y ha visto una expansión increíble desde que  salió del desierto hace poco más de 100 años. 
+=end
+=cuisine
+La gastronomía de Estados Unidos se caracteriza por ser una fusión variada de la cocina de otros países adaptadas a cada región. Un ejemplo es el espagueti de origen italiano y las salchichas alemanas, que juntas hacen el popular espagueti con salchichas. De igual manera sucede con los perros calientes y las hamburguesas de procedencia alemana y populares en Estados Unidos. En sus platos se usan ingredientes de origen autóctono como el maíz, las habas, el girasol, las patatas, los pimientos, diversas formas de pepinos e ingredientes y costumbre de otras partes del mundo llevados por los inmigrantes. Algunos de los platos típicos son el pie de manzana, el boston baket beans, buffalo wings, la carne con chili, entre otros. 
+=end
+=art
+Las Vegas, por supuesto, es un destino tan cultural como divertido. Es un fenómeno único en el mundo, radicalmente contemporáneo, rodeado de mitos y lleno de referentes. Nació como resort, como patio de recreo, pero su extravagancia luminosa terminó atrayendo no sólo a buscadores de fortuna y a turistas de la diversión sino a un buen número de escritores y artistas. Para muchos es simplemente un Disneyland para adultos.
+=end
+=eof

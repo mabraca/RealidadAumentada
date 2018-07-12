@@ -1,0 +1,22 @@
+﻿=description
+Venecia es la ciudad de los canales, capital de la región de Véneto, situada sobre un conjunto de islas que se extiende en una laguna pantanosa en el mar Adriático, entre las desembocaduras de los ríos Po (al sur) y Piave (al norte).
+
+Está formada por 120  pequeñas islas unidas entre sí por 800 puentes y se puede llegar a ella desde tierra firme por el Puente de la Libertad que accede al Piazzale Roma.
+
+Datos generales:
+Desde su fundación, Venecia ha sufrido los efectos de inundaciones periódicas, encontrándose actualmente en grave amenaza. En primavera y otoño tiene hay marea alta dos veces al día y la plaza de San Marcos se inunda de agua hasta tal punto que tienen que colocar pasarelas de madera para el paso de los transeúntes. 
+
+El gobierno italiano prepara un proyecto denominado Moisés, que consiste en levantar unos diques móviles que se cerrarían en caso de aumento del nivel del agua del mar.
+
+Sitios Turisticos: 
+Los famosos Canales de Venecia
+
+=end
+=cuisine
+La comida de Italia es variada. Refleja la variedad cultural de sus regiones así como la diversidad de su historia. La cocina italiana, está incluida dentro de la denominada gastronomía mediterránea y es imitada y practicada en todo el mundo. Se trata de una cocina con fuerte carácter tradicional, variada gracias a cada una de sus regiones y heredera de largas tradiciones, que ha sabido perpetuar recetas antiguas como la pizza, plato napolitano por excelencia, o la polenta, que hoy en día puede degustarse en cualquier trattoria del norte.
+=end
+Venecia es sinónimo de arte. Desde siempre, la ciudad de la laguna ha sido un emporio de artistas, mecenas, museos y obras artísticas. Tanto si estudiamos el periodo medieval, como el renacimiento, el barroco o el neoclasicismo, encontramos ejemplos arquitectónicos, escultóricos y pictóricos muy notables en esta ciudad.
+
+El Museo Correr es el principal museo de Venecia. Exhibe todo tipo de obras de arte como pinturas, esculturas y diversos objetos que relatan la historia de la ciudad a lo largo de los siglos. Con la entrada a este museo también podrás conocer la Biblioteca Nacional Marciana y el Museo Arqueológico.
+=end
+=eof

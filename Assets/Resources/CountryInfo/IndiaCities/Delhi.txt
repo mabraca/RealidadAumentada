@@ -1,0 +1,13 @@
+﻿Delhi forma el 'Territorio de la Capital Nacional' de la República de la India. Contiene la ciudad de Nueva Delhi, la cual ha dejado de ser un área urbana distinguible pero contiene la mayoría de las instituciones administrativas del gobierno nacional y es considerada formalmente la capital. 
+
+Datos generales:
+
+Delhi es la 7ª ciudad más poblada del mundo. Los idiomas principales son el hindi, el urdú, el punjabi y el inglés. 
+Sitios Turisticos: Fuerte Rojo y  Rajpath
+=end
+=cuisine
+Delhi cuenta con algunos de los mejores restaurantes del país. En cualquiera de ellos, el viajero podrá disfrutar de una riquísima especialidad: las dosas, unas irresistibles crepes salados.=end
+=art
+La Galería Nacional es una de esas visitas imperdibles para el que disfruta y valora el arte moderno. Para apreciar el contenido de la misma se puede disponer de 2 horas aproximadamente.Son más de 20 salas destacándose por sobre todas ellas aquella donde se encuentra el Grito de Munch.En el resto hay obras destacables de Goya,El Greco,Picasso etc. También se pueden visualizar esculturas.
+=end
+=eof

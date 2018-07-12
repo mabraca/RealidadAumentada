@@ -1,0 +1,21 @@
+﻿=description
+Hiroshima está localizada sobre el delta del corto río Ota (que nace en los cercanos montes Chugoku), el cual tiene siete brazos que dividen la ciudad en seis islas que se proyectan hacia la bahía de Hiroshima (la cual es una entrada del Mar Interior de Seto).
+
+La ciudad es casi totalmente llana y se encuentra levemente elevada sobre el nivel del mar.
+
+En febrero de 2006 la ciudad contaba con una población estimada de 962 mil personas y una densidad de población de 1279,5 personas por km². Su superficie total es de 905,01km².
+
+Datos Generales:
+
+Hiroshima fue escenario del primer bombardeo atómico de la historia, el 6 de agosto de 1945, en el transcurso de la Segunda Guerra Mundial, por parte del ejército estadounidense. Un mes después la ciudad se vio azotada por un tifón que destruyó algunas de las infraestructuras que aún quedaban en pie. Por esta razón, la ciudad tuvo que ser reconstruida en el periodo de post-guerra
+=cuisine
+La cocina tradicional japonesa está dominada por el arroz blanco, el cual suele usarse como acompañamiento en todas las comidas. Un desayuno japonés tradicional consiste en una sopa de miso (miso shiru), arroz, y un vegetal encurtido. La comida más común, sin embargo, se llama ichijū-sansai(los tres platillos), el cual consta de una sopa acompañada de tres platillos con una técnica de preparación diferente para cada uno. Los tres platillos secundarios son normalmente pescado crudo (sashimi), un platillo a la parrilla, y un platillo cocido a fuego lento. Esta visión única japonesa de la comida se refleja en la organización de los recetarios tradicionales japoneses. Los capítulos están organizados según las técnicas culinarias: comidas fritas, comidas al vapor, comidas a la parrilla, por ejemplo, y no conforme a ingredientes específicos como en los recetarios occidentales. También hay, usualmente, capítulos dedicados a las sopas, el sushi, el arroz, los tallarines, y los dulces.
+=end
+=art
+Uno de los Museos mas frecuentados en Hiroshima es el Museo de La Paz. En el suave descenso hacia la sala principal de este museo parece preparar al visitante para un viaje al pasado que nos lleva a ese trágico día del 6 de agosto de 1945. 
+
+Inaugurada en 2002, esta obra arquitectónica conmemorativa, construida por el famoso TANGE Kenzo (1913 - 2005), el primer discípulo de Le Corbusier en Japón, se encuentra en el corazón del Parque Memorial de la Paz. TANGE ya había diseñado el Cenotafio (1952), el Museo de la Paz (1955) y la Llama de la Paz (1964).
+
+El edificio de mármol y vidrio conserva los nombres y fotografías de los desaparecidos en una impresionante sala circular que invita a la reflexión. Aquí también hay una fuente que simboliza la "zona cero" del impacto.
+=end
+=eof
